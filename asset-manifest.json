@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RubaaiWebsite/static/css/main.f855e6bc.css",
+    "main.js": "/RubaaiWebsite/static/js/main.42ac95e0.js",
+    "static/js/453.75a04fd6.chunk.js": "/RubaaiWebsite/static/js/453.75a04fd6.chunk.js",
+    "static/media/hereo.png": "/RubaaiWebsite/static/media/hereo.d137517c5e2d9636e5c4.png",
+    "static/media/joice.jpeg": "/RubaaiWebsite/static/media/joice.40a33cdb02c0cd0f3e5a.jpeg",
+    "static/media/croos.jpeg": "/RubaaiWebsite/static/media/croos.ef0447445ad5ac8b12a8.jpeg",
+    "static/media/ganeswaran.jpg": "/RubaaiWebsite/static/media/ganeswaran.2b90ddeefa1599c5139f.jpg",
+    "static/media/rubaai_logo.png": "/RubaaiWebsite/static/media/rubaai_logo.797e08d3c87c2cd98ddb.png",
+    "index.html": "/RubaaiWebsite/index.html",
+    "main.f855e6bc.css.map": "/RubaaiWebsite/static/css/main.f855e6bc.css.map",
+    "main.42ac95e0.js.map": "/RubaaiWebsite/static/js/main.42ac95e0.js.map",
+    "453.75a04fd6.chunk.js.map": "/RubaaiWebsite/static/js/453.75a04fd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.42ac95e0.js"
+  ]
+}
