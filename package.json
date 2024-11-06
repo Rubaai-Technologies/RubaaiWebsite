@@ -2,7 +2,7 @@
   "name": "rubaai-website",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://rubaai.net/RubaaiWebsite",
+  "homepage": ".",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
@@ -44,6 +44,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.2.0"
   }
 }
