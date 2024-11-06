@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/RubaaiWebsite/static/css/main.f855e6bc.css",
-    "main.js": "/RubaaiWebsite/static/js/main.26d90bdf.js",
+    "main.js": "/RubaaiWebsite/static/js/main.d0935a48.js",
     "static/js/453.75a04fd6.chunk.js": "/RubaaiWebsite/static/js/453.75a04fd6.chunk.js",
     "static/media/hereo.png": "/RubaaiWebsite/static/media/hereo.d137517c5e2d9636e5c4.png",
     "static/media/joice.jpg": "/RubaaiWebsite/static/media/joice.87034c8dee7204f9b43e.jpg",
-    "static/media/croos.jpg": "/RubaaiWebsite/static/media/croos.4110914456481e653f55.jpg",
-    "static/media/ganeswaran.jpg": "/RubaaiWebsite/static/media/ganeswaran.bac3cb10d325077e2f82.jpg",
+    "static/media/ganeswaran.jpg": "/RubaaiWebsite/static/media/ganeswaran.f940b472adb582bbdd90.jpg",
+    "static/media/croos.jpg": "/RubaaiWebsite/static/media/croos.83400d65c3e7ad74e9f6.jpg",
     "static/media/rubaai_logo.png": "/RubaaiWebsite/static/media/rubaai_logo.797e08d3c87c2cd98ddb.png",
     "index.html": "/RubaaiWebsite/index.html",
     "main.f855e6bc.css.map": "/RubaaiWebsite/static/css/main.f855e6bc.css.map",
-    "main.26d90bdf.js.map": "/RubaaiWebsite/static/js/main.26d90bdf.js.map",
+    "main.d0935a48.js.map": "/RubaaiWebsite/static/js/main.d0935a48.js.map",
     "453.75a04fd6.chunk.js.map": "/RubaaiWebsite/static/js/453.75a04fd6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.26d90bdf.js"
+    "static/js/main.d0935a48.js"
   ]
 }
